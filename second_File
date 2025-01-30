@@ -1,1 +1,6 @@
-ahahahahha
+#!/bin/bash
+
+
+echo "hello from git"
+echp "second_line"
+echo "hello after first commit"
