@@ -1,6 +1,6 @@
 #!/bin/bash
 
 
-echo "hello from git"
-echp "second_line"
-echo "hello after first commit"
+hello from git
+second_line
+hello after first commit
